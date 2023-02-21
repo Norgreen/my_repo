@@ -2,8 +2,8 @@
 
 
 *Name: Exam Projects* 
-- As of now, the repo only contains one file: my project for my exam last semester. 
-  As I have more exam projects to come, I the repo will be updated. 
+- As of now, the repo only contains one file: my last semester exam project. 
+  With more projects to come, the repo will be updated. 
 
 
 Project description: 
