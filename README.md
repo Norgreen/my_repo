@@ -7,7 +7,7 @@
 
 
 Project description: 
-The Social Data Science Base Camp Exam is the culmination of a semester's learning in python. 
+The Social Data Science Base Camp Exam represents the culmination of a semester's worth of Python learning, encompassing a range of topics and techniques. 
 It includes, among other: 
 - Webscraping
 - Extracting data from twitter API 
